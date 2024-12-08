@@ -16,13 +16,13 @@ To use this project just follow these steps:
 
 Use this username and password
 
-Username = VinodChoudhary 
-Password = 616040
+- Username = VinodChoudhary 
+- Password = 616040
 
 
 ## Images
 
-![](https://github.com/vinodchoudharyy/HOSTEL-MANAGEMENT-SYSTEM-PROJECT-REPORT-PDF-/blob/main/Images/Login.png)
+![Login](https://github.com/vinodchoudharyy/HOSTEL-MANAGEMENT-SYSTEM-PROJECT-REPORT-PDF-/blob/main/Images/Login.png)
 
 ![Add Student](https://github.com/vinodchoudharyy/HOSTEL-MANAGEMENT-SYSTEM-PROJECT-REPORT-PDF-/blob/main/Images/addStudents.png)
 
